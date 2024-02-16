@@ -42,8 +42,5 @@ Through comprehensive data collection, preprocessing, and analysis, this project
 
 With an interactive Streamlit user interface and compelling visualizations in Tableau, users can explore the data in an intuitive and engaging manner. This project underscores the power of data analytics in uncovering meaningful insights and driving informed decision-making in the hospitality industry.
 
-For future iterations, enhancements such as real-time data updates, predictive modeling, and additional features in the user interface could further enrich the user experience and provide deeper insights into the Airbnb market.
-
-Explore the project and discover the fascinating world of Airbnb through data!
 
 
